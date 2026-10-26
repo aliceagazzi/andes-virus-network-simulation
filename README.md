@@ -28,8 +28,4 @@ These are model-specific results under stated assumptions, not estimates for an 
 ## Run locally
 Install the packages in `requirements.txt`, then open the notebook in Jupyter. Some runs may be computationally intensive; execution has **not** been independently verified in this packaged version.
 
-## Credits
-Group project by **Alice Agazzi, Greta Dell'Amico, Marco Lazzeri and Michela Tomasoni**. This repository presents collaborative academic work; individual contributions are not separately attributed in the supplied report.
 
-## Notes
-Review co-author consent and university sharing rules before publishing the full report or notebook. No license is granted by default.
